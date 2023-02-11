@@ -23,7 +23,7 @@ interests:
 ## GitHub Stats
 ![Yakuphsensoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakuphsensoy&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakuphsensoy&layout=compact&theme=synthwave)](https://github.com/Yakuphsensoy)
 ## Ecole42 Stats
-[![yasensoy's 42 stats](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/stats?cursusId=21&coalitionId=232)](https://github.com/JaeSeoKim/badge42)
+--
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,flutter,py,")
 ## Technologies
